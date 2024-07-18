@@ -33,3 +33,5 @@ pids
 # OS-specific
 Thumbs.db
   
+# Ignore dist directory
+dist/
