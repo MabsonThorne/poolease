@@ -1,0 +1,29 @@
+<svg width="432" height="120" viewBox="0 0 432 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_529)">
+<g opacity="0.5">
+<path opacity="0.60681" d="M36.5993 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M77.3512 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M117.505 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M158.257 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M199.009 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M239.162 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M279.914 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M320.666 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M360.819 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+<path opacity="0.60681" d="M401.571 1V119.651" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2"/>
+</g>
+<g opacity="0.5">
+<path opacity="0.756413" d="M0.742676 91.1309H430.943" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2 2"/>
+<path opacity="0.756413" d="M0.742676 60.645H430.943" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2 2"/>
+<path opacity="0.756413" d="M0.742676 30.5947H430.943" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2 2"/>
+<path opacity="0.756413" d="M0.142578 0.108878H430.343" stroke="#B18080" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2 2 2 2"/>
+</g>
+<path d="M1 1V119" stroke="#E0E7FF" stroke-linecap="square"/>
+<path d="M0 119.25L431.7 120" stroke="#E0E7FF" stroke-linecap="square"/>
+</g>
+<defs>
+<clipPath id="clip0_18_529">
+<rect width="432" height="120" fill="white"/>
+</clipPath>
+</defs>
+</svg>
